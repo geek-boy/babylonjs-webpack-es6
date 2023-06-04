@@ -1,7 +1,7 @@
 {
-  "name": "babylonjs-typescript-webpack-template",
+  "name": "babylonjs-sandpit",
   "version": "0.0.1",
-  "description": "A simple scene using Babylon.js, typescript and webpack. What could go wrong?",
+  "description": "Playing with babylonjs",
   "main": "index.ts",
   "dependencies": {
     "@babylonjs/core": "^6.0.0",
@@ -56,13 +56,13 @@
     "es6"
   ],
   "author": {
-    "name": "Raanan Weber",
-    "email": "info@raananweber.com",
-    "url": "http://blog.raananweber.com/"
+    "name": "Geek Boy",
+    "email": "github@geekboy.com.au",
+    "url": "http://geekboy.com.au/"
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/RaananW/babylonjs-webpack-es6/issues"
+    "url": "https://github.com/geek-boy/babylonjs-webpack-es6/issues"
   },
-  "homepage": "https://github.com/RaananW/babylonjs-webpack-es6"
+  "homepage": "https://github.com/geek-boy/babylonjs-webpack-es6"
 }
